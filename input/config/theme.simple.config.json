@@ -92,6 +92,15 @@
         "displayRelatedPosts": 1,
         "displayComments": 0
     },
+    "pageConfig": {
+        "displayDate": 0,
+        "displayAuthor": 0,
+        "displayLastUpdatedDate": 0,
+        "displayShareButtons": 0,
+        "displayAuthorBio": 0,
+        "displayChildPages": 0,
+        "displayComments": 0
+    },
     "tagConfig": {
         "displayFeaturedImage": "0",
         "displayPostCounter": 1,
