@@ -1065,4 +1065,10 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://scamobserver.org/case-299-scam/</loc>
+    <lastmod>2026-10-22T23:13:47+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
