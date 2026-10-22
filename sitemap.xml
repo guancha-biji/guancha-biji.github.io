@@ -1089,4 +1089,10 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://scamobserver.org/vorx-bit-withdrawal-issue/</loc>
+    <lastmod>2026-10-22T23:35:37+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
