@@ -1167,4 +1167,10 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://scamobserver.org/case-464-scam/</loc>
+    <lastmod>2026-10-22T23:45:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
