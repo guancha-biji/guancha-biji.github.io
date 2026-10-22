@@ -1,0 +1,11 @@
+run.py
+publii_auto_final.py
+output/
+preview/
+run.py 
+input/db.sqlite 
+*.py 
+
+!output/media/posts/*
+
+!output/media/posts/*
