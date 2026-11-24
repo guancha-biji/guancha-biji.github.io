@@ -3,7 +3,7 @@
     <title>詐騙觀察筆記</title>
     <link href="https://scamobserver.org/feed.xml" rel="self" />
     <link href="https://scamobserver.org" />
-    <updated>2026-11-24T12:33:29+08:00</updated>
+    <updated>2026-11-24T13:03:39+08:00</updated>
     <author>
         <name>自救指南小編</name>
     </author>
@@ -1563,21 +1563,6 @@
   </div>
 </div>
 
-<!-- REAL_VICTIM_STORY_START -->
-<div id="real-victim-story-section" style="margin: 2.5rem 0;">
-  <h2 style="color: #0f172a; font-size: 1.35rem; border-left: 5px solid #f43f5e; padding-left: 12px; margin-bottom: 1.2rem;">一、 親歷者血淚心聲：我在「nodicnest詐騙」從獲利假象到資產被扣押的全程記錄</h2>
-  <div style="background: #fff1f2; border-left: 4px solid #fb7185; padding: 1.5rem; border-radius: 10px; color: #09090b; line-height: 1.9; font-size: 1.02rem; white-space: pre-line;">
-筆者近期接到一位讀者實名通報，揭露了名為「nodicnest」的黑網詐騙平台。該讀者表示，自己最初是被引導進入一個看似專業的投資社群，群內頻繁討論如何利用台幣兌換USDT進行「搶單」操作，聲稱能賺取匯率差額與系統紅包。在親友般的氛圍與大量盈利截圖的洗腦下，受害者對該平台產生了強烈信任。該平台界面模仿正規交易所，但實際操作卻需透過指定的非官方渠道進行台幣入金，並宣稱系統會自動匹配USDT進行交易。受害者起初投入小額資金觀察，發現帳面確實有小幅波動與獲利，這進一步降低了其戒心。然而，當受害者嘗試將本金與利潤全部提現時，平台突發「系統故障」，客服人員態度急轉直下，聲稱因頻繁交易觸發風控鎖定，需補繳相當於帳戶總值百分之二十的「解凍保證金」方可恢復提現功能。受害者基於追損心理，在恐懼與貪婪的交織下，再次轉入大額資金。但補繳後，帳戶依然無法出金，客服甚至開始脅迫式催款，要求支付更高的「稅金」與「手續費」。此時受害者才意識到落入圈套，該平台所謂的「搶單」不過是利用資訊不對稱實施的精密騙局，其背後並無真實的USDT交易支撐，所有數據均為後台操控的虛假數字，最終導致其血本無歸。
-  </div>
-  
-<div style="margin: 1.6rem 0; padding: 1.2rem; background: #fff1f2; border-left: 5px solid #f43f5e; border-radius: 8px;">
-  <strong style="color: #9f1239; font-size: 0.95rem;">💬 【nodicnest詐騙假客服逼繳保證金原音還原】：</strong>
-  <p style="margin: 0.5rem 0 0 0; color: #881337; font-size: 0.95rem; line-height: 1.6; font-style: italic;">「你的帳戶因頻繁操作觸發風控鎖定，必須立即補繳百分之三十的解凍保證金，若半小時內未繳納，所有資產將被永久凍結並沒收，切勿試圖報警，否則後果自負。」</p>
-</div>
-
-</div>
-<!-- REAL_VICTIM_STORY_END -->
-
 <div style="margin: 2.2rem 0; padding: 1.5rem; background: #fff1f2; border: 1px solid #e4e4e7; border-radius: 12px;">
   <h3 style="color: #0f172a; margin-top: 0; margin-bottom: 1.2rem; text-align: center; font-size: 1.15rem;">📊 深度拆解：nodicnest詐騙 詐騙套路演進流程圖</h3>
   <div style="max-width: 600px; margin: 0 auto;">
@@ -2173,21 +2158,6 @@
   </h3>
   <div style="line-height: 1.8; color: #475569; font-size: 0.98rem; white-space: pre-line;">該黑網底層架構採用多層跳轉技術，前端展示頁面常託管於海外虛擬私人伺服器，以規避境內監管與溯源。金流方面，初始投資款項通常匯入多個分散的個人銀行帳戶（人頭戶），這些帳戶與詐騙集團核心成員無直接關聯，僅作為一級過橋戶。資金進入後，會透過高頻短時間轉帳，迅速分散至二級、三級帳戶，甚至跨行、跨國轉匯，形成複雜的資金迷宮。為增加溯源難度，部分金流可能混雜於合法商業交易之中，利用虛構的『知識交流』或『產品採購』發票進行洗白。技術監控顯示，該平台後台系統可能具備遠端控制功能，可隨意修改帳戶餘額顯示，製造『盈利』假象。當受害者嘗試出金時，系統會觸發預設的攔截機制，並彈出需要高額『保證金』或『稅費』的提示。這種設計不僅是心理施壓，更是為了進一步榨取受害者剩餘資產。同時，平台會隱蔽地記錄用戶IP與設備資訊，但透過代理伺服器與加密通訊協議，使得執法單位難以直接鎖定幕後操控者實體位置，形成技術與法律之間的灰色地帶。</div>
 </div>
-
-<!-- REAL_VICTIM_STORY_START -->
-<div id="real-victim-story-section" style="margin: 2.5rem 0;">
-  <h2 style="color: #0f172a; font-size: 1.35rem; border-left: 5px solid #ef4444; padding-left: 12px; margin-bottom: 1.2rem;">三、 親歷者血淚心聲：我在「漁見未來詐騙、海納豐源詐騙」從獲利假象到資產被扣押的全程記錄</h2>
-  <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 1.5rem; border-radius: 10px; color: #18181b; line-height: 1.9; font-size: 1.02rem; white-space: pre-line;">
-我是透過讀者實名通報渠道得知此案，通報者描述其接觸『漁見未來』與『海納豐源』的過程。最初，受害者被引導至一個名為海洋教育與永續知識交流的社群，該平台聲稱結合漁業資源與現代投資理念，提供所謂的『共創計劃』。在推廣過程中，一名自稱與老餅舖師傅合作的代表頻繁出現，該師傅在社群中地位顯赫，近期更公開展示存摺進帳一億元的截圖，宣稱透過此異業合作方案獲得巨額回報，這成為吸引潛在投資者的關鍵鉤子。受害者起初持保留態度，但隨後注意到該老餅舖師傅的粉絲專頁上，出現數篇由疑似其兒女發布的文章，內容隱晦提及師傅因欠債問題，請求債主暫勿討債。這一細節讓受害者意識到，該師傅可能已深陷債務危機，甚至可能是在被詐騙集團控制或利誘下，配合演出『成功投資』的假象，以掩蓋其實際財務狀況。通報者指出，該平台已被內政部警政署165反詐騙網站列為高風險警示對象，但詐騙集團仍持續利用師傅的實體背景與虛構的高額收益進行宣傳。受害者回憶，當嘗試申請領款時，平台客服迅速以系統維護、帳戶異常或需支付高額手續費為由拒絕出金，並急迫要求補繳資金以解凍帳戶。整個過程中，從接觸到投入資金，再到發現師傅背後的債務真相，受害者經歷了從信任到懷疑，再到確認被騙的複雜心理轉折，深刻揭示了利用實體行業老字號背書進行金融詐騙的殘酷現實。
-  </div>
-  
-<div style="margin: 1.6rem 0; padding: 1.2rem; background: #fff1f2; border-left: 5px solid #f43f5e; border-radius: 8px;">
-  <strong style="color: #9f1239; font-size: 0.95rem;">💬 【漁見未來詐騙、海納豐源詐騙假客服逼繳保證金原音還原】：</strong>
-  <p style="margin: 0.5rem 0 0 0; color: #881337; font-size: 0.95rem; line-height: 1.6; font-style: italic;">你的帳戶涉嫌違規操作被凍結，若要解除凍結並領取利潤，必須立即補繳等額的解凍保證金，否則所有資產將被沒收，逾期不候。</p>
-</div>
-
-</div>
-<!-- REAL_VICTIM_STORY_END -->
 
 <div style="margin: 2.4rem 0; padding: 1.3rem; background: #0f172a; border: 2px solid #f59e0b; border-radius: 14px; text-align: center; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.16);">
   <div style="color: #fbbf24; font-weight: bold; font-size: 1.08rem; margin-bottom: 0.9rem; letter-spacing: 0.5px;">
